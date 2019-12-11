@@ -90,10 +90,10 @@ insert into Task values (null, 2, "task4", "c'est la task4", CURRENT_TIMESTAMP);
 # Insert : Contact
 #------------------------------------------------------------
 
-insert into Contact values (null, 1, "Contact1", "c'est le contact1", CURRENT_TIMESTAMP);
-insert into Contact values (null, 2, "Contact2", "c'est le contact2", CURRENT_TIMESTAMP);
-insert into Contact values (null, 3, "Contact3", "c'est le contact3", CURRENT_TIMESTAMP);
-insert into Contact values (null, 4, "Contact4", "c'est le contact4", CURRENT_TIMESTAMP);
+insert into Contact values (null, 1, "Contact1", "c'est le contact1", "phone1");
+insert into Contact values (null, 2, "Contact2", "c'est le contact2", "phone2");
+insert into Contact values (null, 3, "Contact3", "c'est le contact3", "phone3");
+insert into Contact values (null, 4, "Contact4", "c'est le contact4", "phone4");
 
 #------------------------------------------------------------
 # Insert : Note
